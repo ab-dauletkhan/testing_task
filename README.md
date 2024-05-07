@@ -7,7 +7,7 @@
 ``docker run -p 8080:8080 test_task``
 
 - **Запуск сервера напрямую:**
-``python -m backend.main``
+``python -m backend/main.py``
 
 - **Тестирование проекта с использованием pytest:**
 ``pytest``
