@@ -1,4 +1,4 @@
-from views import healthcheck, hash_string
+from .views import healthcheck, hash_string
 
 
 def setup_routes(app):
