@@ -12,10 +12,6 @@
 - **Тестирование проекта с использованием pytest:**
 ``pytest``
 
-- **Установка зависимостей с помощью Poetry:**
-``poetry install``
-``poetry shell``
-
 # Использование API
 
 - **GET /healthcheck:**
