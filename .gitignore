@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Poetry virtual environments
+.poetry/
+
+# pytest and other testing
+.cache/
+pytest_cache/
+*.cover
+.coverage
+
+# Specific IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Docker related files
+docker-compose.override.yml
+
+# Miscellaneous
+*.tmp
+*.temp
