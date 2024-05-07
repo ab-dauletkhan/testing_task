@@ -10,5 +10,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Command to run the application
-# CMD ["python", "backend/main.py"]
-CMD ["python", "test_api.py"]
+CMD ["python", "backend/main.py"]
+# CMD ["python", "test_api.py"]
