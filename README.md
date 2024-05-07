@@ -38,7 +38,7 @@
     - Если поле `string` отсутствует:
       ```
       {
-        "validation_errors": "Missing required field 'string'"
+        "validation_errors": "Invalid JSON data'"
       }
       ```
     - Статус ответа: 400
