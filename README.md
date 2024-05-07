@@ -10,7 +10,7 @@
 ``python -m backend/main.py``
 
 - **Тестирование проекта с использованием pytest:**
-``pytest``
+``pytest backend/test_api.py``
 
 # Использование API
 
